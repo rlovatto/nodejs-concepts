@@ -18,16 +18,16 @@ yarn dev
 Document example:
 
 {
-	"title": "A very simple project",
-	"url" : "https://github.com/rlovatto/simple-test-project-nodejs",
-	"techs": ["Nodejs","React"]
+	"title": "A very simple project",  <br>
+	"url" : "https://github.com/rlovatto/simple-test-project-nodejs", <br>
+	"techs": ["Nodejs","React"] <br>
 }
 
 Endpoints:
 
 GET, POST   - http://localhost:3333/repositories <br>
-PUT, DELETE - http://localhost:3333/repositories/:id
-POST        - http://localhost:3333/repositories/:id/like
+PUT, DELETE - http://localhost:3333/repositories/:id <br>
+POST        - http://localhost:3333/repositories/:id/like <br>
 
 ### ReactJS Front-end for this project:
 
